@@ -27,6 +27,9 @@ The raw file (about 127 MB) is not included in this repository because of its si
 - Monthly trend of the average power for the selected year
 - A year slicer that filters the whole page. Clicking a bar or a point on a chart also filters the other visuals
 
+- Clicking an hour (e.g. 17): the cards show the average of all minute rows at 17:00 to 17:59, from every day of the selected year.
+- Clicking a month (e.g. March): the cards show the average of all minute rows in March of the selected year. 
+
 ## How it was built
 
 **Power Query**
