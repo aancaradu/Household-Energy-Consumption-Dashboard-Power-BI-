@@ -2,7 +2,7 @@
 
 A one-page Power BI dashboard that shows a household's average power use over about two years, built from the UCI Individual Household Electric Power Consumption dataset.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## About the data
 
@@ -51,4 +51,4 @@ The raw file (about 127 MB) is not included in this repository because of its si
 ## Files
 
 - `household_energy_dashboard_2.pbix`: the Power BI report (open with Power BI Desktop)
-- `images/dashboard.png`: screenshot of the report
+- `dashboard.png`: screenshot of the report
